@@ -1,2 +1,2 @@
-# TS
+# ts
 TypeScript study
